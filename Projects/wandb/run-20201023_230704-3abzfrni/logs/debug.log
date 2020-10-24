@@ -1,0 +1,57 @@
+2020-10-23 23:07:04,313 INFO    MainThread:6480 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201023_230704-3abzfrni\logs\debug.log
+2020-10-23 23:07:04,313 INFO    MainThread:6480 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201023_230704-3abzfrni\logs\debug-internal.log
+2020-10-23 23:07:04,313 INFO    MainThread:6480 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-23 23:07:04,313 INFO    MainThread:6480 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
+2020-10-23 23:07:04,313 INFO    MainThread:6480 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-10-23 23:07:04,314 INFO    MainThread:6480 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000019291C5DE88>
+2020-10-23 23:07:06,709 INFO    MainThread:6480 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-23 23:07:06,709 INFO    MainThread:6480 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-23 23:07:06,709 INFO    MainThread:6480 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-23 23:07:06,709 INFO    MainThread:6480 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-23 23:07:06,795 INFO    MainThread:6480 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-23 23:10:06,905 INFO    MainThread:6480 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-23 23:10:06,905 INFO    MainThread:6480 [wandb_run.py:_restore():1235] restore
+2020-10-23 23:10:06,908 INFO    MainThread:6480 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "10faed72bf654c00af7c352c7b14987e"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 878
+      total_bytes: 878
+    }
+  }
+}
+
+2020-10-23 23:10:08,915 INFO    MainThread:6480 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "435d7f0fc2304cf18ec49bc3c448becc"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 4
+    }
+    pusher_stats {
+      uploaded_bytes: 3934
+      total_bytes: 3934
+    }
+  }
+}
+
+2020-10-23 23:10:10,920 INFO    MainThread:6480 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "2ca3601cbdff431d891bc1189802592a"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 4
+    }
+    pusher_stats {
+      uploaded_bytes: 3934
+      total_bytes: 3934
+    }
+  }
+}
+
+2020-10-23 23:10:12,040 INFO    MainThread:6480 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-23 23:10:12,041 INFO    MainThread:6480 [internal.py:handle_exit():137] Internal process exited

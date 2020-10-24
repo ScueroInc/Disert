@@ -1,0 +1,74 @@
+2020-10-23 23:32:02,412 INFO    MainThread:8216 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201023_233202-1xay1cit\logs\debug.log
+2020-10-23 23:32:02,412 INFO    MainThread:8216 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201023_233202-1xay1cit\logs\debug-internal.log
+2020-10-23 23:32:02,412 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-23 23:32:02,412 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
+2020-10-23 23:32:02,412 INFO    MainThread:8216 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-10-23 23:32:02,413 INFO    MainThread:8216 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F4F6DC5148>
+2020-10-23 23:32:02,413 INFO    MainThread:8216 [wandb_run.py:finish():988] finishing run scueroinc/transfer-learn/yew8xhp3
+2020-10-23 23:32:02,413 INFO    MainThread:8216 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-10-23 23:32:02,414 INFO    MainThread:8216 [jupyter.py:save_history():200] not saving jupyter history
+2020-10-23 23:32:02,414 INFO    MainThread:8216 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-23 23:32:02,414 INFO    MainThread:8216 [wandb_run.py:_restore():1235] restore
+2020-10-23 23:32:02,426 INFO    MainThread:8216 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "d87a191398684893a71ab46cbdab7abc"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+      media_count: 1
+      other_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 45176796
+      total_bytes: 45176796
+    }
+  }
+}
+
+2020-10-23 23:32:04,439 INFO    MainThread:8216 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "7d0972367a994a3489ab7610eaf4c77e"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 5
+      media_count: 1
+      other_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 45345418
+      total_bytes: 45345418
+    }
+  }
+}
+
+2020-10-23 23:32:06,449 INFO    MainThread:8216 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "0dadc8ff48474b658c60805498902e29"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+      media_count: 1
+      other_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 45345418
+      total_bytes: 45345418
+    }
+  }
+}
+
+2020-10-23 23:32:07,569 INFO    MainThread:8216 [wandb_run.py:_show_summary():1520] rendering summary
+2020-10-23 23:32:07,569 INFO    MainThread:8216 [wandb_run.py:_show_history():1558] rendering history
+2020-10-23 23:32:07,570 INFO    MainThread:8216 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-23 23:32:09,971 INFO    MainThread:8216 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-23 23:32:09,972 INFO    MainThread:8216 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-23 23:32:09,972 INFO    MainThread:8216 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-23 23:32:09,972 INFO    MainThread:8216 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-23 23:32:33,465 INFO    MainThread:8216 [wandb_init.py:_jupyter_setup():246] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F6B184B488>
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201023_233233-1h08u3fk\logs\debug.log
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201023_233233-1h08u3fk\logs\debug-internal.log
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F4F6DC5148>
+2020-10-23 23:32:33,469 INFO    MainThread:8216 [wandb_run.py:finish():988] finishing run scueroinc/transfer-learn/1xay1cit
