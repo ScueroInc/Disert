@@ -1,9 +1,0 @@
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201023_232058-vzfenimt\logs\debug.log
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201023_232058-vzfenimt\logs\debug-internal.log
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_setup.py:_flush():69] setting env: {'entity': 'mlclass'}
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
-2020-10-23 23:20:58,473 INFO    MainThread:3292 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002A9AE0F93C8>
-2020-10-23 23:21:35,591 INFO    MainThread:3292 [wandb_init.py:teardown():154] tearing down wandb.init
-2020-10-23 23:21:35,591 INFO    MainThread:3292 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
-2020-10-23 23:21:35,591 INFO    MainThread:3292 [jupyter.py:save_history():200] not saving jupyter history

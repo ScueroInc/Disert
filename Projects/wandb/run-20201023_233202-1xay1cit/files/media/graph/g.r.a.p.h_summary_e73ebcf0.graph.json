@@ -1,1 +1,0 @@
-{"format": "keras", "nodes": [{"name": "sequential_2_input", "id": "sequential_2_input", "class_name": "InputLayer", "output_shape": [null, 2048], "num_parameters": 0}, {"name": "dense_2", "id": "dense_2", "class_name": "Dense", "output_shape": [null, 25], "num_parameters": 51225}], "edges": [["sequential_2_input", "dense_2"]]}
