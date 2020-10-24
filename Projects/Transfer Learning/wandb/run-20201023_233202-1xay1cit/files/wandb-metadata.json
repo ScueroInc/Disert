@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2020-10-24T04:32:09.736836",
+    "startedAt": "2020-10-24T04:32:02.409245",
+    "docker": null,
+    "gpu": "GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Eddili\\AppData\\Roaming\\jupyter\\runtime\\kernel-34d6e96a-5ccf-4683-896c-99934b480a3c.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ScueroInc/Disert",
+        "commit": "265c2dbc741ad7f7904929d9b9e9570cf342547d"
+    },
+    "email": "gonzaloescuderop@gmail.com",
+    "root": "C:/Users/Eddili/Repos/Disert",
+    "host": "Escudero02",
+    "username": "Eddili",
+    "executable": "C:\\Users\\Eddili\\anaconda3\\envs\\cpugputensorflow\\python.exe"
+}
