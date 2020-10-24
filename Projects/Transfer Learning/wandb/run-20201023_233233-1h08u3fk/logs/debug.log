@@ -1,0 +1,60 @@
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201023_233233-1h08u3fk\logs\debug.log
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201023_233233-1h08u3fk\logs\debug-internal.log
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-10-23 23:32:33,468 INFO    MainThread:8216 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F4F6DC5148>
+2020-10-23 23:32:33,469 INFO    MainThread:8216 [wandb_run.py:finish():988] finishing run scueroinc/transfer-learn/1xay1cit
+2020-10-23 23:32:33,469 INFO    MainThread:8216 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-23 23:32:33,469 INFO    MainThread:8216 [wandb_run.py:_restore():1235] restore
+2020-10-23 23:32:33,472 INFO    MainThread:8216 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "e1fc5a09fd724dd2867dd5d3dbab34cc"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+      media_count: 1
+      other_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 631791
+      total_bytes: 631791
+    }
+  }
+}
+
+2020-10-23 23:32:35,484 INFO    MainThread:8216 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "6335b0ee163540f589118309d458b1c9"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+      media_count: 1
+      other_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 694938
+      total_bytes: 694938
+    }
+  }
+}
+
+2020-10-23 23:32:36,603 INFO    MainThread:8216 [wandb_run.py:_show_summary():1520] rendering summary
+2020-10-23 23:32:36,604 INFO    MainThread:8216 [wandb_run.py:_show_history():1558] rendering history
+2020-10-23 23:32:36,606 INFO    MainThread:8216 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-23 23:32:38,633 INFO    MainThread:8216 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-23 23:32:38,633 INFO    MainThread:8216 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-23 23:32:38,633 INFO    MainThread:8216 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-23 23:32:38,633 INFO    MainThread:8216 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-24 00:09:12,183 INFO    MainThread:8216 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-24 00:09:38,368 INFO    MainThread:8216 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_init.py:_log_setup():293] Logging user logs to wandb\run-20201024_000938-1g5ywmnj\logs\debug.log
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_init.py:_log_setup():294] Logging internal logs to wandb\run-20201024_000938-1g5ywmnj\logs\debug-internal.log
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_setup.py:_flush():69] setting user settings: {'email': 'gonzaloescuderop@gmail.com'}
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_setup.py:_flush():69] multiprocessing start_methods=spawn
+2020-10-24 00:09:38,466 INFO    MainThread:8216 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F4F6DC5148>
+2020-10-24 00:09:38,467 INFO    MainThread:8216 [wandb_run.py:finish():988] finishing run scueroinc/transfer-learn/1h08u3fk
+2020-10-24 00:09:38,467 INFO    MainThread:8216 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-10-24 00:09:38,467 INFO    MainThread:8216 [jupyter.py:save_history():200] not saving jupyter history
