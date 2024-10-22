@@ -89,7 +89,7 @@ pandocfilters==1.4.2
 parso==0.7.0
 pathtools==0.1.2
 pickleshare==0.7.5
-pillow==8.0.0
+pillow==10.3.0
 pip==20.2.3
 prometheus-client==0.8.0
 promise==2.3
